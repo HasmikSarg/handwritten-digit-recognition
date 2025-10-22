@@ -23,20 +23,3 @@ To use the "Handwritten Digit Recognition":
 
 You'll be greeted with a canvas where you can draw a digit using your mouse or touchscreen. Upon drawing, the prediction chart next to the canvas will display the recognized digit, with the height of the columns representing the model's confidence in its prediction.
 
-## Technologies Used
-
-The project is built with HTML, CSS, and JavaScript, running on Node.js without the need for any third-party dependencies or Node.js frameworks. For digit drawing, the HTML5 Canvas API is employed.
-
-## About PyTorch and Neural Networks
-
-[PyTorch](https://pytorch.org/) is an open-source machine learning library used for applications such as computer vision and natural language processing. It's known for its flexibility and ease of use in building and training neural networks.
-
-## License
-
-This project is open-sourced under the MIT license. For more details, see the [LICENSE](./LICENSE) file in the project repository.
-
----
-
-We believe in the power of JavaScript in machine learning to create accessible and efficient applications. By leveraging modern web technologies, we bring AI capabilities directly to your browser, making it easy for anyone to benefit from the advancements in machine learning.
-
-Enjoy using the "Handwritten Digit Recognition", and feel free to contribute or provide feedback!
